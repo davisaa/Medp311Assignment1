@@ -1,0 +1,36 @@
+Body {
+	background-color:#ffe6b3;
+
+}
+
+h1 {
+	text-align: center;
+}
+h2{
+	font-size: 30px;
+
+}
+
+iframe{
+	margin-left: 300px;
+	
+}
+.webaddress{
+	text-align: top;
+	font-size: 30px;
+}
+.webaddress2{
+	font-size: 30px;
+	font-family: sans-serif;
+}
+
+p {
+	font-size: 27px;
+	font-family: Helvetica,sans-serif;
+}
+img{
+	width: 750px;
+	height: 750px;
+	margin-left: 300px;
+
+}
